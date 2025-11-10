@@ -1,0 +1,4 @@
+Quick fixes:
+ - If site not opening: check Render build logs
+ - If DNS issue: check CNAME record
+ - If DB issue: check DATABASE_URL
